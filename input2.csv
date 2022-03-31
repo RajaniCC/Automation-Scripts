@@ -1,0 +1,16 @@
+AuthToken,Start_date,End_date,Metrics,Benchmark,Cohort
+ba6354f637e41f96394e1cb331c87ec1eba4ae29e1c1cdec316aa6fc4928,2021-11-22,2022-02-20,cycle_time,48,109.6
+,2021-08-23,2021-11-21,time_to_open,10,58.3
+,,,time_to_review,24,15.5
+,,,review_speed,24,29.2
+,,,time_to_merge,35,64.2
+,,,pull_request_throughput_per_contributor,83.2,18
+,,,commits_per_day,4.2,1.7
+,,,pushes_per_day,3.1,2.5
+,,,innovation_rate,80,76
+,,,size,150,334
+,,,pull_request_success_ratio,90,94
+,,,rework_ratio,9,10
+,,,maintenance_rate,20,12
+,,,defect_rate,15,15
+,,,weekly_coding_days,4.2,2.9
